@@ -1,0 +1,5 @@
+# Usage #
+
+Once installed you can use LaTeX markup in blog posts, comments, messages, messageborad posts, pages and group forum posts.  It will also work in anywhere else that uses the "output/longtext" view, which may include the output of other plugins.  Unlike many LaTeX plugins, this is not just for equations.  You can use pretty much any standard LaTeX markup, e.g. sectioning, labels, refs, tables, figures, appendices.  There is no special markup needed to indicate a LaTeX section, you can just start typing LaTeX directly.
+
+This plugin is based on the [LaTeX mathml](http://math.etsu.edu/LaTeXMathML/) script by [Jeff Knisley](http://faculty.etsu.edu/knisleyj/).  See [this page](http://math.etsu.edu/LaTeXMathML/) for further details of the LaTeX markup that is supported.
